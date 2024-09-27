@@ -2,10 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.adrianmoreno.info/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/home/home/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/home/home/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;![alt text](&lt;a href=&#34;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&#34; target=&#34;_blank&#34;&gt;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;howdy&#34;&gt;Howdy!&lt;/h3&gt;&#xA;&lt;p&gt;With a decade of experience in real estate, I have developed a deep appreciation for creating affordable and safe housing for working-class families. Growing up in a family that valued hard work and homebuilding, I carried these principles into my academic journey at the University of Texas at Austin, where I excelled academically and discovered my passion for real estate.&lt;/p&gt;&#xA;&lt;p&gt;My professional experience has spanned asset management, development, and community building, working with diverse stakeholders to revitalize and develop housing solutions. Inspired by my work at Amherst Holdings, I am now pursuing the Master in Land &amp;amp; Property Development at Texas A&amp;amp;M to gain the skills needed to make a meaningful impact on the nation&amp;rsquo;s housing challenges.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Biography</title>
+      <link>http://localhost:1313/about/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/biography/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Coursework</title>
+      <link>http://localhost:1313/academics/coursework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/coursework/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Education &amp; Degrees</title>
+      <link>http://localhost:1313/academics/education_and_degrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/education_and_degrees/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Experience &amp; Background</title>
+      <link>http://localhost:1313/professional/experience_and_background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/experience_and_background/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Key Projects</title>
+      <link>http://localhost:1313/academics/key_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/key_projects/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Leadership</title>
+      <link>http://localhost:1313/about/leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/leadership/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Memberships &amp; Certifications</title>
+      <link>http://localhost:1313/professional/memeberships_and_certs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/memeberships_and_certs/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>MLPD Core Disciplines</title>
+      <link>http://localhost:1313/academics/mlpd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/mlpd/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Passions &amp; Interests</title>
+      <link>http://localhost:1313/about/passions_and_interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/passions_and_interests/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Philosophy &amp; Statement of Purpose</title>
+      <link>http://localhost:1313/about/philosophy_statement_of_purpose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/philosophy_statement_of_purpose/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>References</title>
+      <link>http://localhost:1313/professional/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/professional/references/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
