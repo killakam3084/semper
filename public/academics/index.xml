@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academics on </title>
+    <link>http://localhost:1313/academics/</link>
+    <description>Recent content in Academics on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/academics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coursework</title>
+      <link>http://localhost:1313/academics/coursework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/coursework/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Education &amp; Degrees</title>
+      <link>http://localhost:1313/academics/education_and_degrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/education_and_degrees/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Key Projects</title>
+      <link>http://localhost:1313/academics/key_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/key_projects/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>MLPD Core Disciplines</title>
+      <link>http://localhost:1313/academics/mlpd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/mlpd/</guid>
+      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
