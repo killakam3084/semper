@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://main--chris-semper.netlify.app/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
