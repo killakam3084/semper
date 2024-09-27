@@ -9,7 +9,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Chris Semper"                      # name of your site - appears in the sidebar
-    remote_brand_image = 'https://github.com/killakam3084/semper/blob/main/assets/images/headshot.png' # path to a remote file
+    # remote_brand_image = 'https://github.com/killakam3084/semper/blob/main/assets/images/headshot.png' # path to a remote file
     # brand_image = "assets/images/headshot.png"    # path to the image shown in the sidebar
     description = "Howdy!" # Used as default meta description if not specified in front matter
     dark_mode = false                      # optional - defaults to false
