@@ -6,4 +6,4 @@ title: Passions & Interests
 weight: 10
 ---
 
-# Yo 
+# Passion & Interests 

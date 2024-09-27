@@ -6,4 +6,4 @@ title: Memberships & Certifications
 weight: 10
 ---
 
-# Yo 
+# Memberships & Certifications 

@@ -6,4 +6,4 @@ title: MLPD Core Disciplines
 weight: 10
 ---
 
-# Yo 
+# MLPD Core Disciplines 

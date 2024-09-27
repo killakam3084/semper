@@ -6,4 +6,4 @@ title: Philosophy & Statement of Purpose
 weight: 10
 ---
 
-# Yo 
+# Philosophy & Statement of Purpose 

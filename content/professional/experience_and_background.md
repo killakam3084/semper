@@ -6,4 +6,4 @@ title: Experience & Background
 weight: 10
 ---
 
-# Yo 
+# Experience and Background 

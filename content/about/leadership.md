@@ -6,4 +6,4 @@ title: Leadership
 weight: 10
 ---
 
-# Yo 
+# Leadership 

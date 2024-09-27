@@ -20,77 +20,77 @@
       <link>http://localhost:1313/about/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/biography/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Coursework</title>
       <link>http://localhost:1313/academics/coursework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/coursework/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;coursework&#34;&gt;Coursework&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Education &amp; Degrees</title>
       <link>http://localhost:1313/academics/education_and_degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/education_and_degrees/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;education--degrees&#34;&gt;Education &amp;amp; Degrees&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Experience &amp; Background</title>
       <link>http://localhost:1313/professional/experience_and_background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/professional/experience_and_background/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;experience-and-background&#34;&gt;Experience and Background&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Key Projects</title>
       <link>http://localhost:1313/academics/key_projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/key_projects/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;key-projects&#34;&gt;Key Projects&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Leadership</title>
       <link>http://localhost:1313/about/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/leadership/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;leadership&#34;&gt;Leadership&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Memberships &amp; Certifications</title>
       <link>http://localhost:1313/professional/memeberships_and_certs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/professional/memeberships_and_certs/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;memberships--certifications&#34;&gt;Memberships &amp;amp; Certifications&lt;/h1&gt;</description>
     </item>
     <item>
       <title>MLPD Core Disciplines</title>
       <link>http://localhost:1313/academics/mlpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/mlpd/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;mlpd-core-disciplines&#34;&gt;MLPD Core Disciplines&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Passions &amp; Interests</title>
       <link>http://localhost:1313/about/passions_and_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/passions_and_interests/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;passion--interests&#34;&gt;Passion &amp;amp; Interests&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Philosophy &amp; Statement of Purpose</title>
       <link>http://localhost:1313/about/philosophy_statement_of_purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/philosophy_statement_of_purpose/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;philosophy--statement-of-purpose&#34;&gt;Philosophy &amp;amp; Statement of Purpose&lt;/h1&gt;</description>
     </item>
     <item>
       <title>References</title>
       <link>http://localhost:1313/professional/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/professional/references/</guid>
-      <description>&lt;h1 id=&#34;yo&#34;&gt;Yo&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
