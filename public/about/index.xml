@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on </title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://main--chris-semper.netlify.app/about/</link>
     <description>Recent content in About on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://main--chris-semper.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biography</title>
-      <link>http://localhost:1313/about/biography/</link>
+      <link>https://main--chris-semper.netlify.app/about/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/biography/</guid>
+      <guid>https://main--chris-semper.netlify.app/about/biography/</guid>
       <description>&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Leadership</title>
-      <link>http://localhost:1313/about/leadership/</link>
+      <link>https://main--chris-semper.netlify.app/about/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/leadership/</guid>
+      <guid>https://main--chris-semper.netlify.app/about/leadership/</guid>
       <description>&lt;h1 id=&#34;leadership&#34;&gt;Leadership&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Passions &amp; Interests</title>
-      <link>http://localhost:1313/about/passions_and_interests/</link>
+      <link>https://main--chris-semper.netlify.app/about/passions_and_interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/passions_and_interests/</guid>
+      <guid>https://main--chris-semper.netlify.app/about/passions_and_interests/</guid>
       <description>&lt;h1 id=&#34;passion--interests&#34;&gt;Passion &amp;amp; Interests&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Philosophy &amp; Statement of Purpose</title>
-      <link>http://localhost:1313/about/philosophy_statement_of_purpose/</link>
+      <link>https://main--chris-semper.netlify.app/about/philosophy_statement_of_purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/philosophy_statement_of_purpose/</guid>
+      <guid>https://main--chris-semper.netlify.app/about/philosophy_statement_of_purpose/</guid>
       <description>&lt;h1 id=&#34;philosophy--statement-of-purpose&#34;&gt;Philosophy &amp;amp; Statement of Purpose&lt;/h1&gt;</description>
     </item>
   </channel>

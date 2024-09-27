@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional on </title>
-    <link>http://localhost:1313/professional/</link>
+    <link>https://main--chris-semper.netlify.app/professional/</link>
     <description>Recent content in Professional on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/professional/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://main--chris-semper.netlify.app/professional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience &amp; Background</title>
-      <link>http://localhost:1313/professional/experience_and_background/</link>
+      <link>https://main--chris-semper.netlify.app/professional/experience_and_background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/professional/experience_and_background/</guid>
+      <guid>https://main--chris-semper.netlify.app/professional/experience_and_background/</guid>
       <description>&lt;h1 id=&#34;experience-and-background&#34;&gt;Experience and Background&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Memberships &amp; Certifications</title>
-      <link>http://localhost:1313/professional/memeberships_and_certs/</link>
+      <link>https://main--chris-semper.netlify.app/professional/memeberships_and_certs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/professional/memeberships_and_certs/</guid>
+      <guid>https://main--chris-semper.netlify.app/professional/memeberships_and_certs/</guid>
       <description>&lt;h1 id=&#34;memberships--certifications&#34;&gt;Memberships &amp;amp; Certifications&lt;/h1&gt;</description>
     </item>
     <item>
       <title>References</title>
-      <link>http://localhost:1313/professional/references/</link>
+      <link>https://main--chris-semper.netlify.app/professional/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/professional/references/</guid>
+      <guid>https://main--chris-semper.netlify.app/professional/references/</guid>
       <description>&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;</description>
     </item>
   </channel>
