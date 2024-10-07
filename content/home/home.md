@@ -11,7 +11,7 @@ weight: 10
 
 ![alt text](https://killakam3084.github.io/semper/assets/images/headshot.png)
 
-### Howdy
+### Howdy!
 
 With a decade of experience in real estate, I have developed a deep appreciation for creating affordable and safe housing for working-class families. Growing up in a family that valued hard work and homebuilding, I carried these principles into my academic journey at the University of Texas at Austin, where I excelled academically and discovered my passion for real estate.
 
