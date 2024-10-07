@@ -6,4 +6,4 @@ title: Education & Degrees
 weight: 10
 ---
 
-# Education & Degrees 
+# Education & Degrees
