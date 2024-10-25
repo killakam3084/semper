@@ -18,6 +18,7 @@ Fitness is another cornerstone of my life. I enjoy weightlifting, playing basket
 ![](https://killakam3084.github.io/semper/assets/2-dropdowns/about/2-passions-%20interests/IMG_9670.jpg)
 
 In my professional role with Pulte Group, I am enthusiastic about exploring different master-planned communities in the Austin area. I love seeing these communities at various stages of the land development process, and ultimately seeing a project come to life.
+
 Finally, philanthropy is extremely important to me as a lifelong pursuit. During my undergraduate education, I helped raise $25,000 for Easter Seals of Central Texas to support therapy for disabled children. I also obtained 12 sponsorships and raised $1,600 at an event benefiting the Texas Blind and Visually Impaired.
 
 Overall, my goal in life is to live fully, step outside of my comfort zone, and continually challenge myself.

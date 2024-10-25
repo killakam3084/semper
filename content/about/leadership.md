@@ -9,7 +9,7 @@ weight: 10
 # Leadership
 
 
-Throughout my career, I have demonstrated a range of leadership attributes that are pivotal for a successful career in land development. My background in real estate asset management, combined with my educational pursuits and hands-on experience, positions me well to excel in the field of land development.
+>_**Throughout my career, I have demonstrated a range of leadership attributes that are pivotal for a successful career in land development. My background in real estate asset management, combined with my educational pursuits and hands-on experience, positions me well to excel in the field of land development.**_
 ---
 
 ### Strategic Vision and Execution
