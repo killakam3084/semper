@@ -1,14 +1,3 @@
----
-date: 2024-02-02T04:14:54-08:00
-draft: false
-params:
-  author: Chris Semper 
-title: Home 
-weight: 10
----
-
-a
-
 # Introduction
 
 ![alt text](https://killakam3084.github.io/semper/assets/1-home-landing-page/img_6004_53673977063_o.jpg)
@@ -21,7 +10,7 @@ My professional experience has spanned asset management, development, and commun
 
 I am eager to leverage my experience and education to help ensure sustainable housing for future generations
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."— Winston S. Churchill
 
 ---
 
