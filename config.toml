@@ -1,4 +1,4 @@
-baseURL = "https://main--chris-semper.netlify.app"
+baseURL = "https://chris-semper.netlify.app"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -31,8 +31,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    email_url = "mailto://user@domain"
-    linkedin_url = "https://linkedin.com"
+    email_url = "mailto://cpsemper@gmail.com"
+    linkedin_url = "https://www.linkedin.com/in/christopher-semper-b5270451/"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
