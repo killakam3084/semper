@@ -19,7 +19,8 @@ My professional experience has spanned asset management, development, and commun
 
 I am eager to leverage my experience and education to help ensure sustainable housing for future generations
 
-"Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
+
 LinkedIn: www.linkedin.com/in/christopher-semper-b5270451
 Chris.Semper@Pulte.com | 832.226.2010
 (Resume Attachment)
