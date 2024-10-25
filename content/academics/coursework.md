@@ -3,6 +3,7 @@ draft: false
 params:
   author: Chris Semper 
 title: Coursework 
+hideToc: true
 weight: 10
 ---
 

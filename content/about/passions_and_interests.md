@@ -3,6 +3,7 @@ draft: false
 params:
   author: Chris Semper 
 title: Passions & Interests 
+hideToc: true
 weight: 10
 ---
 
