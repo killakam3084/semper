@@ -7,6 +7,8 @@ title: Home
 weight: 10
 ---
 
+a
+
 # Introduction
 
 ![alt text](https://killakam3084.github.io/semper/assets/1-home-landing-page/img_6004_53673977063_o.jpg)
