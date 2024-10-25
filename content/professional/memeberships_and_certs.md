@@ -2,6 +2,7 @@
 draft: false
 params:
   author: Chris Semper 
+hideToc: true
 title: Memberships & Certifications 
 weight: 10
 ---
