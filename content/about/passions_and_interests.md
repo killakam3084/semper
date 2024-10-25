@@ -1,5 +1,6 @@
 ---
 draft: false
+date: 2024-10-15T04:14:54-08:00
 params:
   author: Chris Semper 
 title: Passions & Interests 
