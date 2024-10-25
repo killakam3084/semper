@@ -8,7 +8,7 @@ hideToc: true
 weight: 10
 ---
 
-{{</* tabs tabTotal="1" */>}}
+{{%/* tabs tabTotal="1" */%}}
 {{%/* tab tabName="Fall 2023" */%}}
 ## Fall 2023
 
@@ -37,7 +37,7 @@ weight: 10
 
 ---
 {{%/* /tab */%}}
-{{</* /tabs */>}}
+{{%/* /tabs */%}}
 
 ## Spring 2024
 
