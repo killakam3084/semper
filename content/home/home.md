@@ -1,3 +1,12 @@
+---
+date: 2024-02-02T04:14:54-08:00
+draft: false
+params:
+  author: Chris Semper 
+title: Home 
+weight: 10
+---
+
 # Introduction
 
 ![alt text](https://killakam3084.github.io/semper/assets/1-home-landing-page/img_6004_53673977063_o.jpg)
