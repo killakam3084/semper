@@ -8,8 +8,21 @@ hideToc: true
 weight: 10
 ---
 
-{{%/* tabs tabTotal="1" */%}}
-{{%/* tab tabName="Fall 2023" */%}}
+
+{{< tabs tabTotal="2" >}}
+
+{{% tab tabName="First Tab" %}}
+This is markdown content.
+{{% /tab %}}
+
+{{< tab tabName="Second Tab" >}}
+{{< highlight text >}}
+This is a code block.
+{{< /highlight >}}
+{{< /tab >}}
+
+{{< /tabs >}}
+
 ## Fall 2023
 
 - ldev-664–market analysis-for-development
@@ -36,8 +49,6 @@ weight: 10
   ![due diligence](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/photo.jpg)
 
 ---
-{{%/* /tab */%}}
-{{%/* /tabs */%}}
 
 ## Spring 2024
 
