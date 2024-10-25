@@ -6,8 +6,6 @@ title: Education & Degrees
 weight: 10
 ---
 
-# Education & Degrees
-
 I attended Clear Lake High School in Clear Lake City, Texas, a suburb southeast of the Houston Metro. 
 
 Upon graduating in May 2009, I moved to Austin, Texas to attend the University of Texas. I was admitted into the McCombs School of Business my sophomore year and graduated with a degree in Business Honors/ Finance in December 2013. 

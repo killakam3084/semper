@@ -7,8 +7,6 @@ hideToc: true
 weight: 10
 ---
 
-# Passion & Interests 
-
 My life is defined by exploration, creativity, and personal growth. My greatest passion is music. I am primarily a singer but also enjoy playing the acoustic guitar. Whether performing as the lead in my high school musical, singing in the a cappella group “The Ransom Notes” at the University of Texas, or playing in bands around Austin, music has always been a meaningful outlet for me outside of my professional life.
 
 ![](https://killakam3084.github.io/semper/assets/2-dropdowns/about/2-passions-%20interests/IMG_9669.jpg)

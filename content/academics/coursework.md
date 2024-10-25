@@ -7,9 +7,7 @@ hideToc: true
 weight: 10
 ---
 
-# Coursework 
-
-# Fall 2023
+## Fall 2023
 
 - ldev-664–market analysis-for-development
   - [Urban Group Patterns and Economic Base Analysis](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-664–market%20analysis-for-development/Urban%20Growth%20Patterns%20and%20Economic%20Base%20Analysis.pdf)
@@ -35,7 +33,7 @@ weight: 10
   ![due diligence](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/photo.jpg)
 
 ---
-# Spring 2024
+## Spring 2024
 
 - ldev-651-property-development-agreements-and regulation 
   - [Water Rights](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/spring-2024/ldev-651-property-development-agreements-and%20regulation/water-rights.pdf)
@@ -63,7 +61,7 @@ weight: 10
 
 ---
 
-# Fall 2024
+## Fall 2024
 
 - ldev-650-land-and-property-development Analysis 
   - [Assignment 1 - Chris Semper.pdf](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2024/ldev-650-land-and-property-development%20Analysis/Assignment%201%20-%20Chris%20Semper.pdf)

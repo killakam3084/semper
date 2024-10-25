@@ -6,8 +6,6 @@ title: Key Projects
 weight: 10
 ---
 
-# Key Projects 
-
 - ldev-661-site-analysis-project 
   - [LDEV 661 Final Project Presentation (Team 7).pdf](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/4-key-projects/ldev-661-site-analysis-project/LDEV%20661%20Final%20Project%20Presentation%20(Team%207).pdf)
   - [LDEV 661 Final Project Write Up (Team 7).pdf](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/4-key-projects/ldev-661-site-analysis-project/LDEV%20661%20Final%20Project%20Write%20Up%20(Team%207).pdf)

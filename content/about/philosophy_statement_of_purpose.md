@@ -6,8 +6,6 @@ title: Philosophy & Statement of Purpose
 weight: 10
 ---
 
-# Philosophy & Statement of Purpose 
-
 ### Philosophy
 ![philosophy](https://killakam3084.github.io/semper/assets/2-dropdowns/about/3-philosophy-statement-of-purpose/statement-of-purpose.png)
 
