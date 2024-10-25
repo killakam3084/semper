@@ -6,4 +6,4 @@ title: Biography
 weight: 10
 ---
 
-# Biography 
+# Biography
