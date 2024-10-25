@@ -1,5 +1,5 @@
 ---
-date: 2024-10-14
+date: 2024-10-15T04:14:54-08:00
 draft: false
 params:
   author: Chris Semper 
