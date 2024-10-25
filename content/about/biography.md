@@ -1,12 +1,4 @@
----
-draft: false
-params:
-  author: Chris Semper 
-title: Biography 
-weight: 10
----
-
-# Biography
+# Bio
 
 Born in Victoria, Texas, I was raised in a family that valued hard work and dedication. My father, a Navy veteran and mechanical engineer at DuPont, and my mother, a school counselor, instilled in me a strong work ethic from an early age. As an only child, I spent my early years in Victoria before moving to North Carolina in middle school and then settling in Clear Lake City, Texas, where I attended Clear Lake High School near NASA.
 
