@@ -35,3 +35,5 @@ ULI Member - August 2023
 
 Texas Wranglers – Vice President, Public Relations Chairman
 Honors - University Honors (Fall 2009 – Spring 2011); Chad L. Wargo Scholarship (Spring 2010); Fallen Wrangler Memorial Scholarship (2012)
+
+![leadership](https://killakam3084.github.io/semper/assets/2-dropdowns/about/4-leadership/leadership-picture.png)
