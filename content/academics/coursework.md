@@ -9,9 +9,9 @@ weight: 10
 ---
 
 
-{{< tabs tabTotal="2" >}}
+{{< tabs tabTotal="3" >}}
 
-{{% tab tabName="First Tab" %}}
+{{% tab tabName="Fall 2023" %}}
 ## Fall 2023
 
 - ldev-664–market analysis-for-development
@@ -40,40 +40,7 @@ weight: 10
 ---
 {{% /tab %}}
 
-{{< tab tabName="Second Tab" >}}
-{{< highlight text >}}
-This is a code block.
-{{< /highlight >}}
-{{< /tab >}}
-
-{{< /tabs >}}
-
-## Fall 2023
-
-- ldev-664–market analysis-for-development
-  - [Urban Group Patterns and Economic Base Analysis](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-664–market%20analysis-for-development/Urban%20Growth%20Patterns%20and%20Economic%20Base%20Analysis.pdf)
-  - [Write Up](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-664–market%20analysis-for-development/Write-Up.docx)
----
-![chart](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-664–market%20analysis-for-development/photo.jpg)
----
-- ldev-667–design-and-development-economy
-  - [Write Up](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-667–design-and-development-economy/Write-Up.docx)
----
-![design and development](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-667–design-and-development-economy/photo.jpg)
----
-- ldev-669–income-property-land-development
-  - [Write Up](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-669–income-property-land-development/Write-Up.docx)
-  - [IRR Waterfall Model - Modified.xlsx](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-669–income-property-land-development/IRR%20Waterfall%20Model%20-%20Modified.xlsx)
----
-![roi](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-669–income-property-land-development/photo.webp)
----
-- ldev-687– development-feasibility-design-1
-  - [Property Conveyance Assignment.pdf](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/Property%20Conveyance%20Assignment.pdf)
-  - [Write up](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/Write-Up.docx)
----
-  ![due diligence](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/photo.jpg)
-
----
+{{% tab tabName="Spring 2024" %}}
 
 ## Spring 2024
 
@@ -102,6 +69,9 @@ This is a code block.
   ![development](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/spring-2024/ldev-668–land-development-practice-residential-development/photo.jpg)
 
 ---
+{{< /tab >}}
+
+{{% tab tabName="Fall 2024" %}}
 
 ## Fall 2024
 
@@ -135,3 +105,7 @@ This is a code block.
   - [Write Up](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2024/ldev-688-%20development-feasibility-and-design-II-capstone/Write-Up.docx)
 ---
   ![feasability](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2024/ldev-688-%20development-feasibility-and-design-II-capstone/photo.png)
+
+{{< /tab >}}
+
+{{< /tabs >}}
