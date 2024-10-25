@@ -7,6 +7,8 @@ hideToc: true
 weight: 10
 ---
 
+{{</* tabs tabTotal="1" */>}}
+{{%/* tab tabName="Fall 2023" */%}}
 ## Fall 2023
 
 - ldev-664–market analysis-for-development
@@ -33,6 +35,9 @@ weight: 10
   ![due diligence](https://killakam3084.github.io/semper/assets/2-dropdowns/academics/3-coursework/fall-2023/ldev-687–%20development-feasibility-design-I/photo.jpg)
 
 ---
+{{%/* /tab */%}}
+{{</* /tabs */>}}
+
 ## Spring 2024
 
 - ldev-651-property-development-agreements-and regulation 
