@@ -25,4 +25,3 @@ I am eager to leverage my experience and education to help ensure sustainable ho
 
 LinkedIn: www.linkedin.com/in/christopher-semper-b5270451
 Chris.Semper@Pulte.com | 832.226.2010
-(Resume Attachment)
