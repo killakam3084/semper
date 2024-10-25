@@ -1,5 +1,4 @@
 ---
-date: 2024-02-02T04:14:54-08:00
 draft: false
 params:
   author: Chris Semper 
@@ -7,7 +6,7 @@ title: Biography
 weight: 10
 ---
 
-# Bio
+# Biography
 
 Born in Victoria, Texas, I was raised in a family that valued hard work and dedication. My father, a Navy veteran and mechanical engineer at DuPont, and my mother, a school counselor, instilled in me a strong work ethic from an early age. As an only child, I spent my early years in Victoria before moving to North Carolina in middle school and then settling in Clear Lake City, Texas, where I attended Clear Lake High School near NASA.
 
@@ -20,5 +19,3 @@ Ultimately, I graduated with a degree in Business Honors/ Finance and focused my
 After graduation, I began my career in private equity real estate in Austin, specializing in asset management. My work experience included overseeing student and workforce housing portfolios and working across the entire investment lifecycle, from development to rehabilitation. At Amherst Holdings, I focused on the single-family residential sector, sourcing and acquiring land for build-to-rent projects. This experience sparked my interest in land development and led me to pursue a Master of Land and Property Development at Texas A&M University.
 
 Throughout my career, I have developed a passion for creating sustainable residential communities that allow future generations to build families and live their dreams. I hope to use my education and experience to address the critical need for affordable housing, revitalizing the country’s aging inventory and developing new units that promote safety, affordability, and growth for the future.
-
-![bio-pic](https://killakam3084.github.io/semper/assets/2-dropdowns/about/1-biography/IMG_9668.jpg)
