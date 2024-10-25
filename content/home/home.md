@@ -18,3 +18,8 @@ With a decade of experience in real estate, I have developed a deep appreciation
 My professional experience has spanned asset management, development, and community building, working with diverse stakeholders to revitalize and develop housing solutions. Inspired by my work at Amherst Holdings, I am now pursuing the Master in Land & Property Development at Texas A&M to gain the skills needed to make a meaningful impact on the nation's housing challenges.
 
 I am eager to leverage my experience and education to help ensure sustainable housing for future generations
+
+"Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
+LinkedIn: www.linkedin.com/in/christopher-semper-b5270451
+Chris.Semper@Pulte.com | 832.226.2010
+(Resume Attachment)
