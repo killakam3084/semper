@@ -3,6 +3,7 @@ date: 2024-10-15T04:14:54-08:00
 draft: false
 params:
   author: Chris Semper 
+hideToc: true
 title: Home 
 weight: 10
 ---
